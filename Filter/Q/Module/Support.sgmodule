@@ -1,0 +1,6 @@
+# 微信广告
+^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad url script-response-body https://raw.githubusercontent.com/oosee/z/master/Script/Wechat.js
+# Sur-BoxJs
+^https?:\/\/boxjs\.com url script-analyze-echo-response https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js
+# Sub-Store
+^https?:\/\/sub\.store url script-analyze-echo-response https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min.js

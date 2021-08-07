@@ -1,0 +1,4 @@
+# YouTube
+^https?:\/\/.+?\.googlevideo\.com\/.+&(oad|ctier)=(?!A) url script-response-body https://raw.githubusercontent.com/Choler/Surge/master/Script/YouTube.js
+# bilibili
+#^https?:\/\/app\.bilibili\.com\/x\/v\d\/splash\/list url script-response-body https://raw.githubusercontent.com/srk24/profile/master/js/bilibili_splash.js

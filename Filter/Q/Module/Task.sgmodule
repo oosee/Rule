@@ -1,0 +1,12 @@
+{
+  "name": "任务列表",
+  "description":"",
+  "task": [
+    "0 1 * * * https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/scripts/cron-sync-artifacts.js, tag=节点同步, img-url=https://raw.githubusercontent.com/oosee/z/master/Icons/Task/update.png, enabled=true",
+    "5 1 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=IQIY签到, img-url=https://raw.githubusercontent.com/oosee/z/master/Icons/Task/iqiyi.png, enabled=true",
+    "6 1 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, tag=喜马拉雅, img-url=https://raw.githubusercontent.com/oosee/z/master/Icons/Task/ximalaya.png, enabled=true",
+    "0 0 * * * https://raw.githubusercontent.com/oosee/z/master/Script/J_Coin.js, tag=东东超市, img-url=https://raw.githubusercontent.com/oosee/z/master/Icons/Task/jdcs.png, enabled=true",
+    "6 0,9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到, img-url=https://raw.githubusercontent.com/oosee/z/master/Icons/Task/jd.png, enabled=true"
+
+  ]
+}

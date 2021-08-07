@@ -1,0 +1,6 @@
+#!name=Ohter
+#!desc=其他模块
+#!system=ios
+
+[Script]
+YouTube = type=http-request,pattern=^https?:\/\/.+?\.googlevideo\.com\/.+&(oad|ctier)=(?!A),requires-body=1,max-size=0,script-path=https://choler.github.io/Surge/Script/YouTube.js,script-update-interval=0
